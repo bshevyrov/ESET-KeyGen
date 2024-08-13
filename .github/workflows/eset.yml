@@ -28,6 +28,7 @@ on:
         options:
         - --key
         - --small-business-key
+        - --endpoint-key
         default: --key
 jobs:
   GenerateKey:
